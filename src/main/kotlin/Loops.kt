@@ -1,5 +1,3 @@
-import java.util.AbstractList
-
 fun main() {
 
     val fruitsList = listOf("Manzana", "Pera", "Frambuesa", "Fresa")

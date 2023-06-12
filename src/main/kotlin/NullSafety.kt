@@ -28,7 +28,7 @@ fun main() {
     println(result)
 
     // Elvis operator
-    var charSignature: Int = signature?.length ?: 0
+    val charSignature: Int = signature?.length ?: 0
     println(charSignature)
 
 }
